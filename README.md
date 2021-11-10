@@ -14,6 +14,8 @@ You have to install the packages:
     ms,
     nekos.life,
     spanish.memes,
+    
+    download code
 
 Reference video setlang:
 https://www.youtube.com/watch?v=xM27bAPFQT4&t=21s
