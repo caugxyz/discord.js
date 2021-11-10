@@ -95,4 +95,4 @@ client.on('interactionCreate', async interaction => {
 process.on('unhandledRejection', (err) => console.error(err))
 
 
-client.login(process.env.TOKEN)
+client.login("TOKEN")
