@@ -15,7 +15,10 @@ You have to install the packages:
     nekos.life,
     spanish.memes,
     
-    download code
+   use:
+    
+    npm i node
+    npm i discord.js @iamtraction/google-translate fs megadb moment moment-duration-format ms nekos.life spanish.memes
 
 Reference video setlang:
 https://www.youtube.com/watch?v=xM27bAPFQT4&t=21s
