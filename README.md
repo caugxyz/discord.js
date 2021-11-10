@@ -3,5 +3,5 @@
 I made this bot in the span of 1 month, with basic commands like setprefix, rolecreate, serverinfo, avatar, setlang, etc
 
 
-Reference video:
+Reference video setlang:
 https://www.youtube.com/watch?v=xM27bAPFQT4&t=21s
